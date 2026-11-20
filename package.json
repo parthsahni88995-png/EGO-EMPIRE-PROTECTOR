@@ -1,0 +1,13 @@
+
+{
+  "name": "ego-empire-protector",
+  "version": "1.0.0",
+  "description": "EGO EMPIRE Protector",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
